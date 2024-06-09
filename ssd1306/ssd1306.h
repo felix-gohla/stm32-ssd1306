@@ -14,8 +14,6 @@
 
 _BEGIN_STD_C
 
-#include "ssd1306_conf.h"
-
 
 #if defined(STM32WB)
 #include "stm32wbxx_hal.h"
